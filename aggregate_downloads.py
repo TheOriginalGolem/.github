@@ -72,8 +72,8 @@ def main():
     # Use config schema options if needed, defaults are hardcoded below
     output_data = {
         "schemaVersion": 1,
-        "label": config.get("badge", {}).get("label", "downloads"),
-        "message": format_number(total_downloads),
+        "label": config.get("badge", {}).get("label", "Total:"),
+        "message": f"{config.get('badge', {}).get('prefix', 'Downloads ')}{format_number(total_downloads)}",
         "color": config.get("badge", {}).get("color", "blue")
     }
     

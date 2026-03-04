@@ -48,5 +48,9 @@
       "platform": "curseforge",
       "project_id": "876181"
     }
-  ]
+  ],
+  "badge": {
+    "label": "Total:",
+    "prefix": "Downloads "
+  }
 }
