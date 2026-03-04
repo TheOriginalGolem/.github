@@ -73,7 +73,7 @@ def main():
     output_data = {
         "schemaVersion": 1,
         "label": config.get("badge", {}).get("label", "Total:"),
-        "message": f"{config.get('badge', {}).get('prefix', 'Downloads ')}{format_number(total_downloads)}",
+        "message": f"{format_number(total_downloads)}{config.get('badge', {}).get('suffix', ' Downloads')}",
         "color": config.get("badge", {}).get("color", "blue")
     }
     

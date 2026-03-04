@@ -51,6 +51,6 @@
   ],
   "badge": {
     "label": "Total:",
-    "prefix": "Downloads "
+    "suffix": " Downloads"
   }
 }
