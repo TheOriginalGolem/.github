@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "platform": "modrinth",
+      "project_id": "longer-chat-history"
+    },
+    {
+      "platform": "curseforge",
+      "project_id": "913234"
+    },
+    {
+      "platform": "modrinth",
+      "project_id": "hbm-reloaded"
+    },
+    {
+      "platform": "curseforge",
+      "project_id": "435883"
+    },
+    {
+      "platform": "modrinth",
+      "project_id": "craftable-smithing-templates"
+    },
+    {
+      "platform": "curseforge",
+      "project_id": "888232"
+    },
+    {
+      "platform": "modrinth",
+      "project_id": "server-chat-sync"
+    },
+    {
+      "platform": "curseforge",
+      "project_id": "1240218"
+    },
+    {
+      "platform": "modrinth",
+      "project_id": "improved-cleanroom-relauncher"
+    },
+    {
+      "platform": "curseforge",
+      "project_id": "1336201"
+    },
+    {
+      "platform": "modrinth",
+      "project_id": "stackable-trims"
+    },
+    {
+      "platform": "curseforge",
+      "project_id": "876181"
+    }
+  ]
+}
